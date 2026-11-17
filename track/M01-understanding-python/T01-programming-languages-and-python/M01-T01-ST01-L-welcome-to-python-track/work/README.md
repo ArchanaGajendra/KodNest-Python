@@ -2,26 +2,24 @@
 
 ## My Name
 
-Write your name.
+Archana Gajendra.
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned fundatmentals, flow, problem solving, arrays, control statments etc.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected python because im more interested in data science and analytics.
 
-## My Career Goal
-
-Write the role you want to achieve.
+My careerr goal is to become data scientist.
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: instructions given to the machine to do something.
 
-Python is:
+Python is: high level language, english like programmming makes it much easier to program.
 
-In this track, I will learn:
+In this track, learn:I will  advanced python, machine learning and artificial intelligence etc.
